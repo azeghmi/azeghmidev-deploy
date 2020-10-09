@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name":"Amine Zeghmi",
+    "occupation":"Développeur Web",
+    "description":"Actuellement étudiant à l'école 42 et en recherche d'un stage. ",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "zeghmi.amine@gmail.com",
+    "phone": "06 62 98 91 51",
+    "address":{
+      "street":"15 place André Masson",
+      "city":"Paris",
+      "state":"France",
+      "zip": "75013"
+    },
+    "website": "http://www.azeghmidev.com",
+    "resumedownload":"http://www.azeghmidev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/amine.zeghmi.7/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/tbakerx",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/amin.zg75/?hl=fr",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/azeghmi",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2007",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2003",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"90%"
+      },
+      {
+        "name":"SQL",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Camagru",
+        "category":"Instagram like, first web project of 42",
+        "image":"canadian-wanderlust.jpg"
+      },
+      {
+        "title":"Matcha",
+        "category":"Meetic like, second web project of 42",
+        "image":"fury-fighting-gear.jpg"
+      },
+      {
+        "title":"Hypertube",
+        "category":"Streaming and torrent link handler, last web project of 42",
+        "image":"original-thai-food.jpg"
+      }
+    ]
+  }
+}

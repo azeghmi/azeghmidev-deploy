@@ -1,10 +1,9 @@
 {
-  "homepage": "http://azeghmi.github.io/azeghmi-deploy",
-  "name": "azeghmi-deploy",
+  "homepage": "http://azeghmi.github.io/azeghmidev-deploy.git",
+  "name": "azeghmidev-deploy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "gh-pages": "^3.1.0",
     "jquery": "^3.5.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
@@ -18,5 +17,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }

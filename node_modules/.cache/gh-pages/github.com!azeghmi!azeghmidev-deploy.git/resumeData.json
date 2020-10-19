@@ -2,10 +2,10 @@
   "main": {
     "name":"Amine Zeghmi",
     "occupation":"Développeur Web",
-    "description":"Actuellement étudiant à l'école 42 et en recherche d'un stage. ",
+    "description":"Actuellement étudiant à l'école 42 et en recherche d'un emploi. ",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"Je suis un passionné de programmation et en particulier de developpement Web. Autodidacte et motivé, mon parcours m'a permis d'explorer plusieurs secteurs de l'informatique. Je vous invite à parcourir mon CV",
+    "contactmessage":"Ce composant est actuellement en cours de développement. N'hésitez pas a me contacter via le mail ci-dessous",
     "email": "zeghmi.amine@gmail.com",
     "phone": "06 62 98 91 51",
     "address":{
@@ -116,17 +116,22 @@
       {
         "title":"Camagru",
         "category":"Instagram like, first web project of 42",
-        "image":"canadian-wanderlust.jpg"
+        "image":"Camagru.jpg"
       },
       {
         "title":"Matcha",
         "category":"Meetic like, second web project of 42",
-        "image":"fury-fighting-gear.jpg"
+        "image":"Matcha.jpg"
       },
       {
         "title":"Hypertube",
         "category":"Streaming and torrent link handler, last web project of 42",
-        "image":"original-thai-food.jpg"
+        "image":"Hypertube.jpg"
+      },
+      {
+      "title":"Resume Website",
+      "category":"Page Web personnelle",
+      "image":"page-screenshot.jpg"
       }
     ]
   }

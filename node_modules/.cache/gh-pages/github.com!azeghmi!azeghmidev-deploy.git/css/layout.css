@@ -47,13 +47,17 @@ header:before {
    vertical-align: middle;
    height: 100%;
 }
+
 header .banner {
    display: inline-block;
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
+   padding-top: 30px;
    padding-bottom: 30px;
    text-align: center;
+   background-color: rgba(0,0,0, 0.6);
+   border-radius: 2em;
 }
 
 header .banner-text { width: 100%; }
@@ -83,7 +87,13 @@ header .banner-text hr {
    border-color: #2F2D2E;
    border-color: rgba(150, 150, 150, .1);
 }
-
+hr {
+    border: solid #E3E3E3;
+    border-width: 1px 0 0;
+    clear: both;
+    margin: 11px 0 30px;
+    height: 0;
+}
 /* header social links */
 header .social {
    margin: 24px 0;

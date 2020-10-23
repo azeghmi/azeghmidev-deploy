@@ -3,7 +3,7 @@
     "name":"Amine Zeghmi",
     "occupation":"Développeur Web",
     "description":"Actuellement étudiant à l'école 42 et en recherche d'un emploi. ",
-    "image":"profilepic.webp",
+    "image":"profilepic.jpg",
     "bio":"Je suis un passionné de programmation et en particulier de developpement Web. Autodidacte et motivé, mon parcours m'a permis d'explorer plusieurs secteurs de l'informatique. Je vous invite à parcourir mon CV.",
     "contactmessage":"Ce composant est actuellement en cours de développement. N'hésitez pas a me contacter via le mail ci-dessous",
     "email": "zeghmi.amine@gmail.com",
@@ -116,22 +116,22 @@
       {
         "title":"Camagru",
         "category":"Instagram like, first web project of 42",
-        "image":"Camagru.webp"
+        "image":"Camagru.jpg"
       },
       {
         "title":"Matcha",
         "category":"Meetic like, second web project of 42",
-        "image":"Matcha.webp"
+        "image":"Matcha.jpg"
       },
       {
         "title":"Hypertube",
         "category":"Streaming and torrent link handler, last web project of 42",
-        "image":"Hypertube.webp"
+        "image":"Hypertube.jpg"
       },
       {
       "title":"Resume Website",
       "category":"Personal Web page",
-      "image":"page-screenshot.webp"
+      "image":"page-screenshot.jpg"
       }
     ]
   }

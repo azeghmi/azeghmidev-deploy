@@ -116,22 +116,22 @@
       {
         "title":"Camagru",
         "category":"Instagram like, first web project of 42",
-        "image":"Camagru.jpg"
+        "image":"Camagru.webp"
       },
       {
         "title":"Matcha",
         "category":"Meetic like, second web project of 42",
-        "image":"Matcha.jpg"
+        "image":"Matcha.webp"
       },
       {
         "title":"Hypertube",
         "category":"Streaming and torrent link handler, last web project of 42",
-        "image":"Hypertube.jpg"
+        "image":"Hypertube.webp"
       },
       {
       "title":"Resume Website",
       "category":"Personal Web page",
-      "image":"page-screenshot.jpg"
+      "image":"page-screenshot.webp"
       }
     ]
   }
